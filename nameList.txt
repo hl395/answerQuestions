@@ -15,3 +15,7 @@
    Answer: My name is Donald Trump and I am the president of United States of America.
    
    NOTE: Remeber to add commit message. It is very IMPORTANT for versioning control!
+   
+   
+5. HAO LIU
+    I WANT TO ANSWER TOO.
