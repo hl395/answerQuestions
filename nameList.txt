@@ -16,6 +16,11 @@
    
    NOTE: Remeber to add commit message. It is very IMPORTANT for versioning control!
    
+
    
 5. HAO LIU
     I WANT TO ANSWER TOO.
+
+   WHAT IF THERE IS CONFLICT. LIKE THIS: 
+   THIS IS NOT HAO LIU
+
